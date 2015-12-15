@@ -1,0 +1,17 @@
+body{
+    background-image: url(http://www.timeout.com.hk/media/content/normal/27721_ShoppingFeatlight.jpg);
+    margin:0px;
+    padding:0px;
+}
+
+h1{
+    font-family:Arial;
+    color:#99FFDE;
+    padding:20px 100px 20px 100px;
+    font-size:60px;
+}
+#title{
+    font-family:Arial;
+    color:#FADDFF;
+    font-size:50px;
+}
